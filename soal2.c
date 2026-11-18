@@ -1,12 +1,12 @@
 #include <stdio.h>
 
 int main (){
-int gelas1;
-int gelas2;
+int gelas1 = 0;
+int gelas2 = 0;
 int ukuran1;
 int ukuran2;
 int takaran;
-int langkahminimum;
+int langkahminimum = 0;
 
 
 int input;
