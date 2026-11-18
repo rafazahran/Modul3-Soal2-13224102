@@ -35,13 +35,6 @@ int input;
     return 0;
     }
 
-    while ((gelas1 || gelas2) != a[2]){
-    
-
-
-    langkahminimum++;
-    }
-
 
 
     printf("%d", langkahminimum);
